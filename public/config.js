@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: 'lenmei233站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -22,11 +22,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://tjys.tk'
+      url: 'https://home.092333.xyz'
     },
     {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: 'https://blog.092333.xyz'
     },
     {
       text: 'GitHub',
