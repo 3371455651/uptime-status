@@ -7,7 +7,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'ur2459416-60a2271d38362dce2aa20b93',
   ],
 
     // 日志天数
@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://3371455651.github.io'
     },
   ],
 };
