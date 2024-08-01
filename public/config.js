@@ -22,11 +22,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://home.092333.xyz'
+      url: 'lenmei233.top'
     },
     {
       text: '博客',
-      url: 'https://blog.092333.xyz'
+      url: 'https://blog.lenmei233.top'
     },
     {
       text: 'GitHub',
